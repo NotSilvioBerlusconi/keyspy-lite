@@ -20,6 +20,11 @@
 gcc -o keyspy keyspy.c
 ```
 
+### ⏯️ Run
+```bash
+sudo ./keyspy /dev/input/event3
+```
+
 ## Disclaimer
 This project is for **educational and research purposes only**. 
 - Do **not** use this software outside of isolated environments (e.g. virtual machines).
